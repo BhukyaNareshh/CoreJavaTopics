@@ -2,8 +2,14 @@ package com.inheritance;
 
 public class SingleInheritance {
 
+	void m1() {
+		System.out.println("inside m1");
+	}
+
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+
+		SingleInheritance s = new SingleInheritance();
+		s.m1();
 
 	}
 
