@@ -4,5 +4,6 @@ public class Bus extends Vehicle {
 
 	String fuel() {
 		return "diesel";
+		//how ate au
 	}
 }
