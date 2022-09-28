@@ -16,6 +16,8 @@ public class A {
 		System.out.println(obj.c);
 		System.out.println(obj.d);
 		System.out.println(obj.s);
+		
+		
 	}
 
 }
